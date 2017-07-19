@@ -1,2 +1,5 @@
 # digit-recognition
-Repository for providing a demo on digit recognition in machine learning (Originally used for introducing 機会学習(machine learning) to a science program for kids at 東北大学)
+
+Repository containing demonstration code for machine learning and the related presentation
+
+Developed for a collaboration between MIT's MISTI Japan program and the Science angels of 東北大学(Touhoku University) for a science program for elementary and middle school students in June 2017
