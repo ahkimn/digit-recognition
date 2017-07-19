@@ -1,0 +1,624 @@
+C:\Anaconda2\python.exe G:/Test/digit_learn.py
+3.1.0
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 142
+Percentage correct: 97.9714285714%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 149
+Percentage correct: 97.8714285714%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 128
+Percentage correct: 98.1714285714%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 123
+Percentage correct: 98.2428571429%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 148
+Percentage correct: 97.8857142857%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 160
+Percentage correct: 97.7142857143%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 135
+Percentage correct: 98.0714285714%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 156
+Percentage correct: 97.7714285714%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+
+
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 150
+Percentage correct: 97.8571428571%
+Retrieving label data...
+Retrieving image data...
+	Image 3500/70000
+	Image 7000/70000
+	Image 10500/70000
+	Image 14000/70000
+	Image 17500/70000
+	Image 21000/70000
+	Image 24500/70000
+	Image 28000/70000
+	Image 31500/70000
+	Image 35000/70000
+	Image 38500/70000
+	Image 42000/70000
+	Image 45500/70000
+	Image 49000/70000
+	Image 52500/70000
+	Image 56000/70000
+	Image 59500/70000
+	Image 63000/70000
+	Image 66500/70000
+	Image 70000/70000
+
+Obtaining feature vectors for 63000 images...
+	Image 6300/63000
+	Image 12600/63000
+	Image 18900/63000
+	Image 25200/63000
+	Image 31500/63000
+	Image 37800/63000
+	Image 44100/63000
+	Image 50400/63000
+	Image 56700/63000
+	Image 63000/63000
+
+Obtaining feature vectors for 7000 images...
+	Image 700/7000
+	Image 1400/7000
+	Image 2100/7000
+	Image 2800/7000
+	Image 3500/7000
+	Image 4200/7000
+	Image 4900/7000
+	Image 5600/7000
+	Image 6300/7000
+	Image 7000/7000
+
+Training classifier from the given training vectors...
+Fitting classifier to the given test vectors...
+
+-------------- RESULTS ---------------
+Total number of samples: 7000
+Number of mistakes: 149
+Percentage correct: 97.8714285714%
+
+Process finished with exit code 0
+
+Retrieving label data...
+Retrieving image data...
+	Image 350/7000
+	Image 700/7000
+	Image 1050/7000
+	Image 1400/7000
+	Image 1750/7000
+	Image 2100/7000
+	Image 2450/7000
+	Image 2800/7000
+	Image 3150/7000
+	Image 3500/7000
+	Image 3850/7000
+	Image 4200/7000
+	Image 4550/7000
+	Image 4900/7000
+	Image 5250/7000
+	Image 5600/7000
+	Image 5950/7000
+	Image 6300/7000
+	Image 6650/7000
+	Image 7000/7000
+
+Obtaining feature vectors for 6300 images...
+	Image 630/6300
+	Image 1260/6300
+	Image 1890/6300
+	Image 2520/6300
+	Image 3150/6300
+	Image 3780/6300
+	Image 4410/6300
+	Image 5040/6300
+	Image 5670/6300
+	Image 6300/6300
+
+Obtaining feature vectors for 700 images...
+	Image 70/700
+	Image 140/700
+	Image 210/700
+	Image 280/700
+	Image 350/700
+	Image 420/700
+	Image 490/700
+	Image 560/700
+	Image 630/700
+	Image 700/700
+
+-------------- RESULTS ---------------
+Total number of samples: 700
+Number of mistakes: 640
+Percentage correct: 8.57142857143% (Randomized)
+[Finished in 55.7s]
